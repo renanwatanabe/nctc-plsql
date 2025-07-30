@@ -1,0 +1,31 @@
+{
+   "flagDeveMostrarBlocoTempoEspecialIncluido":"S",
+   
+   "periodoInicioGrave":"0(zero)",
+   "periodoFimGrave":"0(zero)",
+   "tempoDiasGrave":"0(zero)",
+   
+   "periodoInicioModerada":"0(zero)",
+   "periodoFimModerada":"0(zero)",
+   "tempoDiasModerada":"0(zero)",
+   
+   "periodoInicioLeve":"0(zero)",
+   "periodoFimLeve":"0(zero)",
+   "tempoDiasLeve":"0(zero)",
+   
+   "periodoInicioAgente":"0(zero)",
+   "periodoFimAgente":"0(zero)",
+   "tempoDiasAgente":"0(zero)",
+   
+   "periodoInicioSaude1":"DE 25/05/1997",
+   "periodoFimSaude1":"A 01/04/1998",
+   "tempoDiasSaude1":"-309",
+   
+   "periodoInicioSaude2":"DE 15/05/2020",
+   "periodoFimSaude2":"A 20/05/2021",
+   "tempoDiasSaude2":"-1234",
+   
+   "periodoInicioSaude3":"0(zero)",
+   "periodoFimSaude3":"0(zero)",
+   "tempoDiasSaude3":"0(zero)"
+}

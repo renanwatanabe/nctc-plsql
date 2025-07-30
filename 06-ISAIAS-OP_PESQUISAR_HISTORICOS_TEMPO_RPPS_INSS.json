@@ -1,0 +1,22 @@
+{
+   "listaHistoricosTempoRppsInss":[
+      {
+         "nomeEmpresa":"1",
+         "dataInicioPeriodoAproveitado":"2",
+         "dataFimPeriodoAproveitado":"3",
+         "descricaoFlagProfessor":"4",
+         "numeroCertidao":"5",
+         "totalGeralCertidao":"6",
+         "periodoConsiderado":"7",
+         "diasConsiderados":"8",
+         "nomeTempoEspecial":"9",
+         "nomeEmissor":"10",
+         "numeroPv":"11",
+         "quantidadeRegistrosPorNumeroCertidao":"2"
+      }
+   ],
+   "totalGeralConsideradoAnosMesesDias":"1 ano 3 meses 0 dias",
+   "totalGeralConsideradoDias":"455 dias",
+   "totalGeralConsideradoAposentadoriaEspecialAnosMesesDias":"1 ano 3 meses 0 dias",
+   "totalGeralConsideradoAposentadoriaEspecialDias":"455 dias"
+}

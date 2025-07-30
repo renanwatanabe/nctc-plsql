@@ -1,0 +1,14 @@
+{
+   "listaTemposEspeciaisEfetivos":[
+      {
+         "periodo":"1997",
+         "tempoDias":"abc"
+      },
+      {
+         "periodo":"1998",
+         "tempoDias":"def"
+      }
+   ],
+   "descricaoPeriodoTempoEspecialExercicio":"texto",
+   "totalTempoEspecialExercicioDias":"1.782"
+}

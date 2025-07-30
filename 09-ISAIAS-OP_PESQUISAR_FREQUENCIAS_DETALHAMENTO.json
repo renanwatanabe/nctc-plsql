@@ -1,0 +1,15 @@
+{
+   "listaFrequenciasDetalhamento":[
+      {
+         "ano":"1997",
+         "tempoBruto":"15/10",
+         "faltas":"1",
+         "licencas":"FALTA",
+         "licencaSemContribuicao":"1",
+         "suspensoes":"1",
+         "disponibilidade":"1",
+         "outras":"1",
+         "tempoLiquido":"1"
+      }
+   ]
+}

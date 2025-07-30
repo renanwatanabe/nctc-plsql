@@ -1,0 +1,36 @@
+{
+   "listaValoresAnexo10":[
+      {
+         "ano":"2000",
+         "janeiro":"",
+         "fevereiro":"",
+         "marco":"1.348,47",
+         "abril":"1.614,89",
+         "maio":"1.614,89",
+         "junho":"1.674,89",
+         "julho":"1.674,89",
+         "agosto":"1.674,89",
+         "setembro":"1.725,68",
+         "outubro":"1.721,68",
+         "novembro":"1.725,68",
+         "dezembro":"1.721,06",
+         "decimoTerceiroSalarioGratificacaoNatalina":"1.564,21"
+      },
+      {
+         "ano":"2001",
+         "janeiro":"",
+         "fevereiro":"",
+         "marco":"1.448,47",
+         "abril":"1.414,89",
+         "maio":"1.514,89",
+         "junho":"1.174,89",
+         "julho":"1.274,89",
+         "agosto":"1.374,89",
+         "setembro":"1.425,68",
+         "outubro":"1.521,68",
+         "novembro":"1.625,68",
+         "dezembro":"1.721,06",
+         "decimoTerceiroSalarioGratificacaoNatalina":"1.164,21"
+      }
+   ]
+}

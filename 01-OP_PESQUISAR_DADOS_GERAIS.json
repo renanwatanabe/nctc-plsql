@@ -1,0 +1,35 @@
+{
+   "servidor":{
+      "codigoIdentificadorPessoaFisica":"",
+      "nomeServidor":"luiza",
+      "codigoSexo":"M",
+      "descricaoSexo":"Masculino",
+      "numeroCpf":"086.983.908-03",
+      "numeroPisPasep":"1.221.062.685-6",
+      "nomeMae":"",
+      "nomePai":"",
+      "dataNascimento":"12/09/1965",
+      "numeroRg":"",
+      "codigoOrgaoEmissorRg":"",
+      "nomeOrgaoEmissorRg":"",
+      "codigoUfEmissorRg":""
+   },
+   "relacaoFuncional":{
+      "codigoEntidade":"",
+      "nomeEntidade":"A",
+      "numeroCnpj":"",
+      "codigoCargo":"",
+      "nomeCargo":"A",
+      "numeroMatricula":"10.544.537",
+      "codigoIdentificadorRelacaoFuncional":"260511",
+      "numeroPv":"2",
+      "codigoRegimeJuridico":"",
+      "nomeRegimeJuridico":"",
+      "descricaoRegimeJuridico":""
+   },
+   "definir":{
+      "dataInicioContribuicaoAdmissao":"",
+      "codigoOrgaoLotacao":"",
+      "nomeOrgaoLotacao":""
+   }
+}

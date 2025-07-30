@@ -1,0 +1,18 @@
+{
+   "listaFrequenciasDiscriminacao":[
+      {
+         "ano":"1997",
+         "periodoDias":"15/10",
+         "tempoDias":"1",
+         "identificacaoOcorrencia":"FALTA",
+         "totalAno":"1"
+      },
+      {
+         "ano":"2021",
+         "periodoDias":"DE 01/02 A 25/02",
+         "tempoDias":"20",
+         "identificacaoOcorrencia":"FALTA",
+         "totalAno":"2"
+      }
+   ]
+}

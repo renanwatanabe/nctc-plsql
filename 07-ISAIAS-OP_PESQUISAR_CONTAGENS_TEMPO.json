@@ -1,0 +1,96 @@
+{
+   "dataInicioContagemTempo":"01/03/2024",
+   "flagProfessor":"S",
+   "flagPcd":"S",
+   "contagem1998":{
+      "dataContagemTempo":"16/12/1998",
+      "idade":" 26 ano(s)",
+      "descricaoTempoAposentadoriaEspecialDinamica":"Dinamica 16/12/1998",
+      "valoresDias":{
+         "tempoContribuicao":"0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 dia(s)"
+      },
+      "valoresAnosMesesDias":{
+         "tempoContribuicao":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 ano(s) 0 mês(es) 0 dia(s)"
+      }
+   },
+   "contagem2003":{
+      "dataContagemTempo":"31/12/2003",
+      "idade":"31 ano(s)",
+      "descricaoTempoAposentadoriaEspecialDinamica":"Dinamica 31/12/2003",
+      "valoresDias":{
+         "tempoContribuicao":"0 dia(s)",
+         "tempoCargoAposenta":"0 dia(s)",
+         "tempoEfetivoExercicioCargoAposenta":"0 dia(s)",
+         "tempoEfetivoExercicioServicoPublico":"0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 dia(s)"
+      },
+      "valoresAnosMesesDias":{
+         "tempoContribuicao":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoCargoAposenta":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoEfetivoExercicioCargoAposenta":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoEfetivoExercicioServicoPublico":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 ano(s) 0 mês(es) 0 dia(s)"
+      }
+   },
+   "contagem2020":{
+      "dataContagemTempo":"07/03/2020",
+      "idade":"47 ano(s)",
+      "descricaoTempoAposentadoriaEspecialDinamica":"Dinamica 07/03/2020",
+      "valoresDias":{
+         "tempoContribuicao":"0 dia(s)",
+         "tempoCarrerira":"0 dia(s)",
+         "tempoCargoAposenta":"0 dia(s)",
+         "tempoEfetivoExercicioCargoAposenta":"0 dia(s)",
+         "tempoEfetivoExercicioServicoPublico":"0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 dia(s)",
+         "tempoCondicaoPcd":"0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 dia(s)"
+      },
+      "valoresAnosMesesDias":{
+         "tempoContribuicao":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoCarrerira":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoCargoAposenta":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoEfetivoExercicioCargoAposenta":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoEfetivoExercicioServicoPublico":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoCondicaoPcd":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 ano(s) 0 mês(es) 0 dia(s)"
+      }
+   },
+   "contagemAtual":{
+      "dataContagemTempo":"24/07/2025",
+      "idade":"53 ano(s)",
+      "descricaoTempoAposentadoriaEspecialDinamica":"Dinamica 24/07/2025",
+      "valoresDias":{
+         "tempoContribuicao":"0 dia(s)",
+         "tempoCarreira":"0 dia(s)",
+         "tempoCargoAposenta":"0 dia(s)",
+         "tempoEfetivoExercicioCargoAposenta":"0 dia(s)",
+         "tempoEfetivoExercicioServicoPublico":"0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 dia(s)",
+         "tempoCondicaoPcd":"0 dia(s)",
+         "tempoAposentadoriaEspecialAgentesInsalubres":"0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 dia(s)"
+      },
+      "valoresAnosMesesDias":{
+         "tempoContribuicao":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoCarreira":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoCargoAposenta":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoEfetivoExercicioCargoAposenta":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoEfetivoExercicioServicoPublico":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialMagisterio":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoCondicaoPcd":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialAgentesInsalubres":"0 ano(s) 0 mês(es) 0 dia(s)",
+         "tempoAposentadoriaEspecialDinamica":"0 ano(s) 0 mês(es) 0 dia(s)"
+      }
+   },
+   "totalFaltasDias":"0 dia(s)",
+   "totalAfastamentosDias":"0 dia(s)",
+   "totalPenalidadesDias":"0 dia(s)"
+}

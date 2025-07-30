@@ -1,0 +1,32 @@
+{
+   "codigoOrgaoExpedidor":"1",
+   "nomeOrgaoExpedidor":"Diretoria",
+   "descricaoLocalidadeOrgaoExpedidor":"localidade SP",
+   "numeroCnpj":"123.456.789",
+   "dataAdmissao":"22/07/2025",
+   "dataExoneracaoDispensa":"23/07/2025",
+   "periodoContribuicaoCompreendidoCertidaoDe":"01/01/1999",
+   "periodoContribuicaoCompreendidoCertidaoAte":"01/06/2020",
+   "codigoFonteInformacao":"2",
+   "nomeFonteInformacao":"Processo único de contagem de tempo",
+   "descricaoDestinacaoTempoContribuicao":"27/05/1997 a 01/04/1998;15/03/2000 a 20/09/2021",
+   "listaPeriodosDestinadosOrgaos":[
+      "21/08/2024 a 22/10/2024",
+      "15/03/2000 a 20/09/2021"
+   ],
+   "numeroCnpjOrgao1":"1",
+   "numeroCnpjOrgao2":"2",
+   "numeroCnpjOrgao3":"3",
+   "listaPeriodosSelecionadosOrgao1":[
+      "21/08/2024 a 22/10/2024",
+      "AAA"
+   ],
+   "listaPeriodosSelecionadosOrgao2":[
+      "21/08/2025 a 22/10/2025"
+   ],
+   "listaPeriodosSelecionadosOrgao3":[
+      "21/08/2026 a 22/10/2026"
+   ],
+   "descricaoParaAproveitamentoJuntoAo":"Para aproveitamento junto ao INSS",
+   "observacoesTarefa":"testeee"
+}
